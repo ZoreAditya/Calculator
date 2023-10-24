@@ -1,6 +1,8 @@
 
 # Simple JavaScript Calculator
 This is a simple JavaScript calculator that performs basic arithmetic operations. It takes two numbers as input and returns the result of the selected operation.
+# Link:
+https://zoreaditya.github.io/Calculator/
 
 # Preview
 https://github.com/ZoreAditya/Calculator/assets/113139336/53b996d2-0f2a-47a4-8143-f7d7ce48955c
